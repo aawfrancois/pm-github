@@ -22,5 +22,10 @@
     "babel-preset-env": "^1.7.0",
     "babel-register": "^6.26.0",
     "electron": "^2.0.8"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "electron-fetch": "^1.2.1",
+    "moment": "^2.22.2"
   }
 }
